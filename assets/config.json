@@ -1,8 +1,8 @@
 {
   "site": {
-    "pageTitle": "Interactive Literature Database",
-    "pageSubtitle": "An interactive literature review",
-    "heroHeading": "Your Database Title",
+    "pageTitle": "Postmortem Microbiome Research",
+    "pageSubtitle": "Exploring microbial succession and its role in postmortem interval estimation",
+    "heroHeading": "Microorganisms as Indicators of Postmortem Interval",
     "submitButtonText": "Suggest a Source",
     "submitButtonLink": ""
   },
