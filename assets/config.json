@@ -1,0 +1,41 @@
+{
+  "site": {
+    "pageTitle": "Interactive Literature Database",
+    "pageSubtitle": "An interactive literature review",
+    "heroHeading": "Your Database Title",
+    "submitButtonText": "Suggest a Source",
+    "submitButtonLink": ""
+  },
+  "filters": {
+    "filter1": {
+      "label": "Theory"
+    },
+    "filter2": {
+      "label": "Method"
+    },
+    "filter3": {
+      "label": "Population"
+    },
+    "filter4": {
+      "label": "Setting"
+    }
+  },
+  "infoFields": {
+    "info1": {
+      "label": "Info 1"
+    },
+    "info2": {
+      "label": "Info 2"
+    },
+    "info3": {
+      "label": "Info 3"
+    }
+  },
+  "branding": {
+    "favicon": "assets/uploads/signpost-2.svg"
+  },
+  "colors": {
+    "primaryAccent": "#8F250C",
+    "secondaryAccent": "#EF8A17"
+  }
+}
